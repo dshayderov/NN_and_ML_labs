@@ -63,6 +63,8 @@ desktop.ini
 # Методичка в корне проекта
 /Practicum_NN_and_ML.pdf
 # Отчёты в папках лабораторных работ (.md, .doc, .docx)
-ЛР_*/Отчет_*
+ЛР_*/Отчет_*.md
+ЛР_*/Отчет_*.doc
+ЛР_*/Отчет_*.docx
 # Крупный файл (>100 МБ), скачивается отдельно
-/ЛР_9/datasets/fashionmnist/fashion-mnist_train.csv
+ЛР_*/datasets/fashionmnist/fashion-mnist_train.csv
